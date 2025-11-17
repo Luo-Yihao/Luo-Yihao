@@ -1,11 +1,26 @@
-- 👋 Hi, here is @Luo-Yihao. I am a PhD student in Bioengineering at Imperial College London, specializing in the development of deep learning algorithms for medical image reconstructions and biomechanics simulations.
-- 👀 My current research interests focus on self-supervised networks for 3D computer vision combined with physical and geometrical guidance.
-- 🌱 With a professional background in mathematics, particularly in modern geometry and topology, I am passionate about exploring the intersection and balance between pure mathematics and intelligent science.
-- 💞️ My work has been published in top-tier conferences and journals, and I am actively seeking new research opportunities and collaborations. I am open to exploring new and interesting projects, so please feel free to contact me if you have anything in mind.
-- 📫 My email: y.luo23@imperial.ac.uk, yihaoluo2020@gmail.com
+# 👋 Hi, I'm **Yihao Luo**
+### PhD Student @ Imperial College London 
+**3D Geometry • Reconstruction Algorithms • Generative Models**
 
+---
 
-<!---
-Luo-Yihao/Luo-Yihao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 About Me  
+I work on **high-fidelity 3D representations**, **differentiable geometric pipelines**, and **geometry-aware neural networks**.  
+My research spans:
+
+- 🧩 **3D reconstruction & mesh generation**  
+- 📐 **Geometric processing, topology, and curvature analysis**  
+- 💠 **Hybrid 3D representations (meshes, voxels, SDF/UDF, sparse structures)**  
+- 🚀 **Large-scale 3D generative models** 
+
+My goal is to build **accurate, scalable, and mathematically grounded** methods for 3D understanding and generation.
+
+---
+🎓 With a strong foundation in **modern geometry, topology, and applied mathematics**, I explore how mathematical structure can guide the next generation of 3D geometric intelligence.
+
+📚 If you're working on **3D AI, geometry processing, or next-gen generative models**, I’m always open to new ideas and collaborations.
+
+---
+## 📫 Contact  
+📧 **y.luo23@imperial.ac.uk**  
+📧 **yihaoluo2020@gmail.com**
